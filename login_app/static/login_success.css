@@ -1,0 +1,15 @@
+* {
+    margin: 0px auto;
+    padding: 0px;
+    /* outline: 1px dotted yellowgreen; */
+}
+#link {
+    text-align: right;
+    padding: 50px;
+}
+.lines {
+    padding: 25px;
+}
+#green{
+    color: green;
+}
